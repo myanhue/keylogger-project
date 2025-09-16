@@ -34,7 +34,7 @@ python3 keylogger.py
 <br>
 
 #### 2. Here's what the threat actor sees.
-The scenario is an unsuspecting person logging into their facebook.
+The scenario is an unsuspecting person logging into their Facebook.
 <br>
 <p align="center">
   <img src="screenshot2.png" alt="Terminal" style="max-width:100%;">
