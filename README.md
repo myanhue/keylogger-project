@@ -10,7 +10,7 @@ When this keylogger is ran, it will most likely be flagged and quarantined by Mi
 ```bash
 # Install this in your terminal
 
-pip install pynput
+python -m pip install pynput
 ```
 
 ## Purpose
