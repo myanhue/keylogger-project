@@ -21,4 +21,15 @@ I wanted to further understand how keyloggers work, and what a threat actor woul
 # Run the script in the folder's terminal
 
 python3 keylogger.py
+```
 
+When you run the project, any keystroke you type while it runs will be recorded on the keyfile.txt file automatically created.
+<img src="screenshot1.png" alt="Terminal" style="max-width:100%;margin: 0 auto;">
+
+Here's what the threat actor sees.
+<img src="screenshot2.png" alt="Terminal" style="max-width:100%;margin: 0 auto;">
+
+The scenario is an unsuspecting person logging into their facebook.
+
+**Here is what it looks like on their end:**
+<img src="screenshot3.png" alt="Terminal" style="max-width:100%;margin: 0 auto;">
