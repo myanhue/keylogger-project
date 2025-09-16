@@ -16,20 +16,34 @@ pip install pynput
 ## Purpose
 I wanted to further understand how keyloggers work, and what a threat actor would see from a simple keylogger like this one. This project provides code for those interested in understanding some perspective of threat actors and what they might see when running keyloggers.
 
-## How it works
+## Running the project
 ```bash
 # Run the script in the folder's terminal
 
 python3 keylogger.py
 ```
+<br>
 
-When you run the project, any keystroke you type while it runs will be recorded on the keyfile.txt file automatically created.
-<img src="screenshot1.png" alt="Terminal" style="max-width:100%;margin: 0 auto;">
+## How it works
+#### 1. When you run the project, any keystroke you type while it runs will be recorded on the keyfile.txt file automatically created.
 
-Here's what the threat actor sees.
-<img src="screenshot2.png" alt="Terminal" style="max-width:100%;margin: 0 auto;">
+<p align="center">
+  <img src="screenshot1.png" alt="Terminal" style="max-width:100%;">
+</p>
 
+<br>
+
+#### 2. Here's what the threat actor sees.
 The scenario is an unsuspecting person logging into their facebook.
+<br>
+<p align="center">
+  <img src="screenshot2.png" alt="Terminal" style="max-width:100%;">
+</p>
+<br>
+ 
+## Extra
+Here's what it really looks like on their end.
 
-**Here is what it looks like on their end:**
-<img src="screenshot3.png" alt="Terminal" style="max-width:100%;margin: 0 auto;">
+<p align="center">
+  <img src="screenshot3.png" alt="Terminal" style="max-width:100%;">
+</p>
