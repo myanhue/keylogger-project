@@ -42,7 +42,7 @@ The scenario is an unsuspecting person logging into their Facebook.
 <br>
  
 ## Extra
-Here's what it really looks like on their end.
+Here's what it looks like broken down.
 
 <p align="center">
   <img src="screenshot3.png" alt="Terminal" style="max-width:100%;">
