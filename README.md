@@ -7,7 +7,7 @@ When this keylogger is ran, it will most likely be flagged and quarantined by Mi
 - [Python](https://www.python.org/downloads/)
 
 **Install the required libraries:**
-```bash
+```
 # Install this in your terminal
 
 python -m pip install pynput
@@ -17,7 +17,7 @@ python -m pip install pynput
 I wanted to further understand how keyloggers work, and what a threat actor would see from a simple keylogger like this one. This project provides code for those interested in understanding some perspective of threat actors and what they might see when running keyloggers.
 
 ## Running the project
-```bash
+```
 # Run the script in the folder's terminal
 
 python3 keylogger.py
