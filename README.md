@@ -1,4 +1,4 @@
-# simple-keylogger
+# Simple Keylogger
 Lightweight keylogger designed to record basic keyboard input, made with Python.
 For educational purposes only.
 
